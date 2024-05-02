@@ -1,0 +1,1 @@
+var json_MW03_3 = {"type":"FeatureCollection","name":"MW03_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"MW03","Fill_Depth":0.5,"GW_Depth":6.68,"TD":9.0},"geometry":{"type":"Point","coordinates":[142.196104220063972,-36.710007466408896]}}]}

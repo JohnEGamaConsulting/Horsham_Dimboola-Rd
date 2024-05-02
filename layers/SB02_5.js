@@ -1,0 +1,1 @@
+var json_SB02_5 = {"type":"FeatureCollection","name":"SB02_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"SB02","Fill_Depth":0.5,"GW_Depth":null,"TD":3.0},"geometry":{"type":"Point","coordinates":[142.196051571899346,-36.709852254132556]}}]}
